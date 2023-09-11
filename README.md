@@ -1,6 +1,10 @@
-# React + Vite
+# FCC React Project 1 - Static Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This page was created using `npm create vite@latest`.
+
+### React + Vite Information.
+
+This template provides a minimal setup to get React working in [Vite](https://vitejs.dev/) with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
