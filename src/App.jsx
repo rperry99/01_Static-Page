@@ -11,7 +11,7 @@ function App() {
 function PageContent() {
   return (
     <div>
-      <img src='./react-logo.png' className='logo'/>
+      <Navigation />
       <h1>Fun facts about React</h1>
       <ul className="item-list">
         <li>Was first released in 2013</li>
@@ -20,7 +20,26 @@ function PageContent() {
         <li>Is maintained by Facebook</li>
         <li>Powers thousands of enterprise apps, including mobile apps</li>
       </ul>
+      <Footer />
     </div>
+  )
+}
+
+function Navigation() {
+  return (
+    <header>
+      <nav>
+        <img src='./react-logo.png' className='logo'/>
+      </nav>
+    </header>
+  )
+}
+
+function Footer() {
+  return (
+    <footer>
+      <small>&copy; Russ Perry. All rights reserved.</small>
+    </footer>
   )
 }
 
