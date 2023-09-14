@@ -1,15 +1,14 @@
 # FCC React Project 1 - Static Page
 
-- This page was created using `npm create vite@latest`.
-- This is just a static page, about React. There's nothing really that fancy about this.
-- Got an understanding of how components work, how to set up a react project, and how to style a react project.
-
 <p align="center">
     <img src="screenshot.png">
 </p>
 
 ## Some things to consider
 
+- This page was created using `npm create vite@latest`.
+- This is just a static page, about React. There's nothing really that fancy about this.
+- Got an understanding of how components work, how to set up a react project, and how to style a react project.
 - I did not make this responsive. The goal of this project was to get comfortable in react. It was not how to make a responsive website.
 - Nav / Links do not work on purpose. Again, this project was not intended to make a functional website.
 
