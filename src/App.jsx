@@ -33,7 +33,7 @@ function Navigation() {
 
 function MainContent() {
   return (
-    <div>
+    <div className="main-content">
       <h1>Fun facts about React</h1>
       <ul className="item-list">
         <li>Was first released in 2013</li>
