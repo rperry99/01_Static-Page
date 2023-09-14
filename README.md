@@ -12,8 +12,6 @@
 - I did not make this responsive. The goal of this project was to get comfortable in react. It was not how to make a responsive website.
 - Nav / Links do not work on purpose. Again, this project was not intended to make a functional website.
 
----
-
 ## React + Vite Information.
 
 This template provides a minimal setup to get React working in [Vite](https://vitejs.dev/) with HMR and some ESLint rules.
