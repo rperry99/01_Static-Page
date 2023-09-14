@@ -6,6 +6,10 @@
 
 ![Screenshot of the basic React page I made. Lists facts about React.](screenshot.png)
 
+<p align="center">
+    <img src="screenshot.png">
+</p>
+
 ## Some things to consider
 
 - I did not make this responsive. The goal of this project was to get comfortable in react. It was not how to make a responsive website.
