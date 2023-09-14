@@ -4,8 +4,6 @@
 - This is just a static page, about React. There's nothing really that fancy about this.
 - Got an understanding of how components work, how to set up a react project, and how to style a react project.
 
-![Screenshot of the basic React page I made. Lists facts about React.](screenshot.png)
-
 <p align="center">
     <img src="screenshot.png">
 </p>
