@@ -14,7 +14,7 @@
 
 ---
 
-### React + Vite Information.
+## React + Vite Information.
 
 This template provides a minimal setup to get React working in [Vite](https://vitejs.dev/) with HMR and some ESLint rules.
 
