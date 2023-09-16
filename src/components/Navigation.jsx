@@ -5,11 +5,7 @@ function Navigation() {
     <header>
       <nav>
         <img src="./react-logo.png" className="logo" />
-        <ul className="nav__links">
-          <li className="nav__link">Pricing</li>
-          <li className="nav__link">About</li>
-          <li className="nav__link">Contact</li>
-        </ul>
+        <p>React Course - Project 1</p>
       </nav>
     </header>
   );
