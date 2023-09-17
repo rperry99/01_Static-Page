@@ -1,17 +1,38 @@
 /* Global */
 * {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+}
+
+.background-react {
+  width: 400px;
+  position: absolute;
+  right: -200px;
+  top: calc(50% - 200px);
+  opacity: 20%;
 }
 
 /* Navigation */
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
 .logo {
   width: 60px;
+  margin-right: 20px;
+}
+
+.logo-name {
+  font-weight: 700;
+  color: #61dbfb;
+  font-size: 1.4rem;
 }
 
 nav {
@@ -40,7 +61,21 @@ nav {
 }
 
 .item-list {
-  list-style-type: disc;
+  list-style-type: none;
+}
+
+.item-list li {
+  margin-bottom: 15px;
+  font-size: 1.25rem;
+}
+
+.item-list li::before {
+  content: "\2022";
+  color: #61dbfb;
+  font-weight: bold;
+  display: inline-block;
+  width: 1.25em;
+  margin-left: -1em;
 }
 
 /* Footer */
