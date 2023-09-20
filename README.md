@@ -11,6 +11,7 @@
 - Got an understanding of how components work, how to set up a react project, and how to style a react project.
 - I did not make this responsive. The goal of this project was to get comfortable in react. It was not how to make a responsive website.
 - Nav / Links do not work on purpose. Again, this project was not intended to make a functional website.
+- Had some difficulty getting a live version of this going.
 
 ## React + Vite Information.
 
